@@ -1,0 +1,29 @@
+_repo: The-History-of-the-Popes-From-the-Foundation-of-the-See-of-Rome-to-the-Present-Time-3rd-Ed-Vo__63336
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bower, Archibald
+    alias: Bowers, Archibald
+    birthdate: 1686
+    deathdate: 1766
+    gutenberg_agent_id: '52384'
+    url: http://www.gutenberg.org/2009/agents/52384
+    wikipedia: https://en.wikipedia.org/wiki/Archibald_Bower
+description: ''
+gutenberg_issued: '2020-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- History'
+- !lcsh 'Papacy -- History'
+- !lcc 'BX'
+- !lcsh 'Popes -- Biography'
+- GITenberg
+title: 'The History of the Popes: From the Foundation of the See of Rome, to the Present
+  Time, 3rd Ed. Vol. 1'
+url: http://www.gutenberg.org/ebooks/63336
